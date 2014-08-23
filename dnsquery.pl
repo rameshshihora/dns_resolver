@@ -7,7 +7,7 @@
 ## resolverstatus=1 - This means one or more domain resolution didnt go through primary resolver in /etc/resolv.conf. Investigate by quering to Primary.. 
 ## queryavg - This indicates the average query resolution time and the values are in Milli Seconds
 ## TtlLkupTime - This is total time taken to resolve all the dns domains query lookup and the values are in Seconds
-## Contact: ymail-ase-be@,rshihora@
+## Contact: rameshshihora@gmail.com
 ######################################################################################################################
 #use strict;
 use warnings;
